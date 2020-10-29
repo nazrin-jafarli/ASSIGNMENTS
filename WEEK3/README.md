@@ -1,1 +1,1 @@
-#### the second c program swaps contents of 2 strings   ####
+### 1st program swaps the contents of 2 arrays ###
